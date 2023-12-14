@@ -1,0 +1,7 @@
+name: housemasters_pwa
+recipe: laravel
+config:
+  webroot: public
+  php: 8.1
+
+
